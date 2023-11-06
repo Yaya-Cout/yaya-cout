@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Yaya-Cout's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaya-Cout&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+I moved some of my repos to Framagit at this address : https://framagit.org/Yaya.Cout.
+
 <!--
 **Yaya-Cout/yaya-cout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
