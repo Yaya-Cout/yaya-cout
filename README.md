@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I moved some of my repos to Framagit at this address : https://framagit.org/Yaya.Cout.
+I moved some of my projects to Framagit and Codeberg:
+
+- https://framagit.org/Yaya.Cout
+- https://codeberg.org/Yaya-Cout/
 
 <!--
 **Yaya-Cout/yaya-cout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
